@@ -1,7 +1,7 @@
 # Based on Bridge by ScionicSpectre and Adwaita by GNOME
 # vim:set ts=2 sw=2 sts=2 ai et:
 #
-# This is the GTK+ 2 version of Ignite-Blue. It's whole purpose is to look as the
+# This is the GTK+ 2 version of Ignite-blue. It's whole purpose is to look as the
 # GTK+ 3 version as much as possible until GTK+ 2 dies completely.
 #
 # Note: comments for explaining styles are on the bottom of each file beside the
@@ -16,11 +16,11 @@ gtk-color-scheme = "text_color:#ffffff\nbase_color:#000000"
 # Foreground/background
 gtk-color-scheme = "fg_color:#ffffff\nbg_color:#000000"
 # Selected foreground/background
-gtk-color-scheme = "selected_fg_color:#000000\nselected_bg_color:#005885"
+gtk-color-scheme = "selected_fg_color:#000000\nselected_bg_color:#10618b"
 # Titlebar foreground/background
-gtk-color-scheme = "titlebar_fg_color:#ffffff\ntitlebar_bg_color:#005885"
+gtk-color-scheme = "titlebar_fg_color:#ffffff\ntitlebar_bg_color:#10618b"
 # Links
-gtk-color-scheme = "link_color:#005885\nvisited_link_color:#E040FB"
+gtk-color-scheme = "link_color:#10618b\nvisited_link_color:#E040FB"
 
 # Set GTK settings
 gtk-auto-mnemonics              = 1

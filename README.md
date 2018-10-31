@@ -8,3 +8,4 @@ GTK+ (formerly GIMP Toolkit) is a cross-platform widget toolkit for creating gra
 It simply provide a new look to your Linux DE.
 
 ![GNOME](https://i.imgur.com/iYaN3Ac.jpg)
+gtk is lit
